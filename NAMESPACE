@@ -1,0 +1,2 @@
+exportPattern("^compute.backend.+")
+import(doParallel, doRNG)

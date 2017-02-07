@@ -1,0 +1,10 @@
+Package: ComputeBackend
+Type: Package
+Title: A consistent interface for my computing backends
+Version: 1.0
+Date: 2013-04-23
+Author: Shachar Kaufman
+Maintainer: Shachar Kaufman <shachar.kaufman@gmail.com>
+Depends: doParallel, doRNG
+Description: Gives a consistent interface for computing serially (with easy debugging), local multicore, or on various cluster job management systems.
+License: GPL-3
